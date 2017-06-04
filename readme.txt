@@ -9,3 +9,4 @@ add merge
 add brach dev
 git stash
 my dev working
+add/user/bin/env
