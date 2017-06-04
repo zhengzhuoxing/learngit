@@ -9,3 +9,4 @@ add merge
 add brach dev
 git stash
 my dev working
+add coding: utf-8
