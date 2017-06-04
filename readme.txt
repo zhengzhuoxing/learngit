@@ -10,3 +10,4 @@ add brach dev
 git stash
 my dev working
 add dev 原来的
+add/user/bin/env
