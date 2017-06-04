@@ -4,3 +4,4 @@ me change content.
 xiugai wen file
 thank gad
 checkout brach
+Creating a new brach is quick AND simple.
