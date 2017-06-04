@@ -10,3 +10,5 @@ add brach dev
 git stash
 my dev working
 add coding: utf-8
+add dev 原来的
+add/user/bin/env
