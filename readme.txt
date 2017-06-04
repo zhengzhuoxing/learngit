@@ -6,3 +6,4 @@ thank gad
 checkout brach
 Creating a new brach is quick and simple.
 add merge
+add brach dev
